@@ -1,0 +1,30 @@
+.cards{
+  width: 100px;
+  padding: 20px 30px;
+  display: contents;
+}
+
+.cards h2{
+  text-align: center;
+}
+
+.cards-info{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.individual-card{
+  width: 200px;
+  text-align: center;
+  padding: 10px 10px;
+  border: 1px solid rgb(231, 217, 217);
+  border-radius: 2px;
+  margin-inline: 40px;
+}
+
+.individual-card img{
+  width: 200px;
+  height: auto;
+}

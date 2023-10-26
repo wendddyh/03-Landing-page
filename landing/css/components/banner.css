@@ -1,0 +1,38 @@
+.banner{
+  background-image: linear-gradient(rgba(0,1,0,0.2), rgba(0,1,0,0.2)),  url('/03-Landing-page/landing/images/landscape-hero.jpg');
+  background-size: cover;
+  height:450px;
+  overflow:hidden;
+  display: flex;
+  flex-direction: column;
+  padding-top: 176px;
+  align-items: center;
+}
+
+.banner-info{
+  text-align: left;
+
+}
+
+.banner-info h1{
+  font-size: 40px;
+  color: white;
+
+}
+.banner-info p{
+  font-size: 16px;
+  color: white;
+  padding-bottom: 20px;
+
+}
+
+.click{
+  background-color: rgb(22, 200, 146);
+  color: white;
+  padding: 20px 20px;
+  font-size: 16px;
+  border-radius: 20px;
+  border: 0px ;
+  margin-top: 50px;
+
+}
